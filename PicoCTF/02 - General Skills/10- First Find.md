@@ -35,6 +35,15 @@ files/14789.txt.utf-8:brassa un picotin d'orge_. Comme depuis une demi-heure env
 CharlyRod-picoctf@webshell:~$ 
 ```
 picoCTF{f1nd_15_f457_ab443fd1}
+
+### Solucion 2 con find
+```
+CharlyRod-picoctf@webshell:~$ find -name uber*
+./files/adequate_books/more_books/.secret/deeper_secrets/deepest_secrets/uber-secret.txt
+CharlyRod-picoctf@webshell:~$ cat ./files/adequate_books/more_books/.secret/deeper_secrets/deepest_secrets/uber-secret.txt
+picoCTF{f1nd_15_f457_ab443fd1}
+```
+picoCTF{f1nd_15_f457_ab443fd1}
 ### Notas adicionales
 Grep -r es todopoderoso
 
