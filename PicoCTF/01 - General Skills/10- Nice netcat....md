@@ -17,4 +17,6 @@ picoCTF{g00d_k1tty!_n1c3_k1tty!_f7a6e}
 [From Charcode - CyberChef](https://cyberchef.org/#recipe=From_Charcode\('Space',10\)&input=MTEyIA0KMTA1IA0KOTkgDQoxMTEgDQo2NyANCjg0IA0KNzAgDQoxMjMgDQoxMDMgDQo0OCANCjQ4IA0KMTAwIA0KOTUgDQoxMDcgDQo0OSANCjExNiANCjExNiANCjEyMSANCjMzIA0KOTUgDQoxMTAgDQo0OSANCjk5IA0KNTEgDQo5NSANCjEwNyANCjQ5IA0KMTE2IA0KMTE2IA0KMTIxIA0KMzMgDQo5NSANCjEwMiANCjU1IA0KOTcgDQo1NCANCjEwMSANCjEyNSANCjEw)
 ### Notas adicionales
 Se utilizo cyberchef pa decodificar ascii
+
+Se puede abrir el archivo en python utilizando open y .read() y despues usar un ciclo para convertir cada caracter e imprimirlo con chr.
 ### Referencias
