@@ -11,10 +11,14 @@
             "id": "2c9d302caf24124a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF Web 2/02- GET aHEAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02- GET aHEAD"
             }
           }
         ]
@@ -181,10 +185,10 @@
   },
   "active": "2c9d302caf24124a",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF Web 2/Scavenger Hunt.md",
+    "PicoCTF/PicoCTF Web 2/03- Scavenger Hunt.md",
+    "PicoCTF/PicoCTF Web 2/02- GET aHEAD.md",
+    "PicoCTF/PicoCTF Web 2/01- Cookies.md",
     "Plantilla.md",
-    "PicoCTF/PicoCTF Web 2/Cookies.md",
-    "PicoCTF/PicoCTF Web 2/GET aHEAD.md",
     "PicoCTF/03 - General Skills/10 - Serpentine.md",
     "PicoCTF/PicoCTF Web 2",
     "PicoCTF/03 - General Skills/09 - PW Crack 3.md",
