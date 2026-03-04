@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF Web 2/02- GET aHEAD.md",
+                "file": "PicoCTF/PicoCTF Web 3/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02- GET aHEAD"
+              "title": "JaWT Scratchpad"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -174,22 +174,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "2c9d302caf24124a",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF Web 2/03- Scavenger Hunt.md",
-    "PicoCTF/PicoCTF Web 2/02- GET aHEAD.md",
-    "PicoCTF/PicoCTF Web 2/01- Cookies.md",
+    "PicoCTF/PicoCTF Web 3/More SQLi.md",
+    "PicoCTF/PicoCTF Web 3/Irish-Name-Repo 1.md",
+    "PicoCTF/PicoCTF Web 3/JaWT Scratchpad.md",
     "Plantilla.md",
+    "PicoCTF/01 - Tarea - GeneralSkills/Permissions.md",
+    "PicoCTF/PicoCTF Web 3",
     "PicoCTF/03 - General Skills/10 - Serpentine.md",
+    "PicoCTF/01 - Tarea - GeneralSkills",
+    "PicoCTF/PicoCTF Web 2/02- GET aHEAD.md",
+    "PicoCTF/PicoCTF Web 2/03- Scavenger Hunt.md",
+    "PicoCTF/PicoCTF Web 2/01- Cookies.md",
     "PicoCTF/PicoCTF Web 2",
     "PicoCTF/03 - General Skills/09 - PW Crack 3.md",
     "PicoCTF/03 - General Skills/04 - convertme.py.md",
@@ -210,11 +216,7 @@
     "PicoCTF/02 - General Skills/08- repetitions.md",
     "PicoCTF/02 - General Skills/07- Magikarp Ground Mission.md",
     "PicoCTF/02 - General Skills/06- Tab, Tab, Attack.md",
-    "PicoCTF/02 - General Skills/04- Static ain't always noise.md",
-    "PicoCTF/01 - General Skills/10- Nice netcat....md",
-    "PicoCTF/02 - General Skills/02- strings it.md",
     "PicoCTF/02 - General Skills",
-    "PicoCTF/01 - General Skills/9- Glitch cat.md",
     "PicoCTF/01 - General Skills",
     "Untitled",
     "PicoCTF"
