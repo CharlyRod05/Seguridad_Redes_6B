@@ -11,10 +11,14 @@
             "id": "07e89bc3b1405009",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF CONCURSO/Binary Digits.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Binary Digits"
             }
           }
         ]
@@ -181,6 +185,10 @@
   },
   "active": "07e89bc3b1405009",
   "lastOpenFiles": [
+    "PicoCTF/PicoCTF CONCURSO/1- Binary Digits (1).md",
+    "PicoCTF/PicoCTF CONCURSO/Binary Digits.md",
+    "PicoCTF/PicoCTF CONCURSO/fool-the-lockout (1).md",
+    "PicoCTF/PicoCTF CONCURSO/fool-the-lockout.md",
     "PicoCTF/PicoCTF Forensic 2/WhitePages.md",
     "PicoCTF/PicoCTF Forensic 2/shark on wire 2.md",
     "PicoCTF/PicoCTF Forensic 2/m00nwalk.md",
@@ -205,11 +213,7 @@
     "PicoCTF/PicoCTF CONCURSO",
     "PicoCTF/PicoCTF Forensic/04- extensions.md",
     "PicoCTF/PicoCTF Forensic/03- shark on wire 1.md",
-    "PicoCTF/PicoCTF Forensic/02- So Meta.md",
-    "PicoCTF/PicoCTF Forensic/01- Glory of the Garden.md",
-    "PicoCTF/PicoCTF Web 4/04- Most Cookies.md",
     "PicoCTF/PicoCTF Forensic",
-    "PicoCTF/PicoCTF Web 4/03- Trickster.md",
     "PicoCTF/PicoCTF Web 4",
     "PicoCTF/PicoCTF Web 3",
     "PicoCTF/01 - Tarea - GeneralSkills",
