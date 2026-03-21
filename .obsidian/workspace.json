@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08f5e59706799405",
+        "id": "176b087aa9b3abd2",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9d302caf24124a",
+            "id": "07e89bc3b1405009",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/PicoCTF Forensic/05- What Lies Within.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05- What Lies Within"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -183,44 +179,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2c9d302caf24124a",
+  "active": "07e89bc3b1405009",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF Forensic/04- extensions.md",
-    "PicoCTF/PicoCTF Forensic/05- What Lies Within.md",
+    "PicoCTF/PicoCTF Forensic 2/WhitePages.md",
+    "PicoCTF/PicoCTF Forensic 2/shark on wire 2.md",
+    "PicoCTF/PicoCTF Forensic 2/m00nwalk.md",
+    "PicoCTF/PicoCTF Forensic 2/c0rrupt.md",
+    "PicoCTF/PicoCTF CONCURSO/old-sessions.md",
+    "PicoCTF/PicoCTF CONCURSO/SUDO MAKE ME A SANDWICH.md",
+    "PicoCTF/PicoCTF CONCURSO/old-sessions (1).md",
+    "PicoCTF/PicoCTF CONCURSO/ping-cmd.md",
+    "PicoCTF/PicoCTF CONCURSO/Printer Shares.md",
+    "PicoCTF/PicoCTF CONCURSO/Piece by Piece.md",
+    "PicoCTF/PicoCTF CONCURSO/MultiCode.md",
+    "PicoCTF/PicoCTF CONCURSO/bytemacy1.md",
+    "PicoCTF/PicoCTF CONCURSO/bytemacy0.md",
+    "PicoCTF/PicoCTF CONCURSO/Piece by Piece (1).md",
+    "PicoCTF/PicoCTF Forensic 2/like1000.md",
     "Plantilla.md",
+    "PicoCTF/PicoCTF Forensic 2",
+    "PicoCTF/PicoCTF CONCURSO/Printer Shares (1).md",
+    "PicoCTF/PicoCTF CONCURSO/bytemacy1 (1).md",
+    "PicoCTF/PicoCTF CONCURSO/bytemacy0 (1).md",
+    "PicoCTF/PicoCTF Forensic/05- What Lies Within.md",
+    "PicoCTF/PicoCTF CONCURSO",
+    "PicoCTF/PicoCTF Forensic/04- extensions.md",
     "PicoCTF/PicoCTF Forensic/03- shark on wire 1.md",
     "PicoCTF/PicoCTF Forensic/02- So Meta.md",
     "PicoCTF/PicoCTF Forensic/01- Glory of the Garden.md",
     "PicoCTF/PicoCTF Web 4/04- Most Cookies.md",
     "PicoCTF/PicoCTF Forensic",
     "PicoCTF/PicoCTF Web 4/03- Trickster.md",
-    "PicoCTF/PicoCTF Web 4/02- SOAP.md",
-    "PicoCTF/PicoCTF Web 4/01- MatchTheRegex.md",
-    "PicoCTF/PicoCTF Web 3/More SQLi.md",
-    "PicoCTF/PicoCTF Web 3/JaWT Scratchpad.md",
     "PicoCTF/PicoCTF Web 4",
-    "PicoCTF/PicoCTF Web 3/Irish-Name-Repo 1.md",
-    "PicoCTF/01 - Tarea - GeneralSkills/Permissions.md",
     "PicoCTF/PicoCTF Web 3",
-    "PicoCTF/03 - General Skills/10 - Serpentine.md",
     "PicoCTF/01 - Tarea - GeneralSkills",
-    "PicoCTF/PicoCTF Web 2/02- GET aHEAD.md",
-    "PicoCTF/PicoCTF Web 2/03- Scavenger Hunt.md",
-    "PicoCTF/PicoCTF Web 2/01- Cookies.md",
     "PicoCTF/PicoCTF Web 2",
-    "PicoCTF/03 - General Skills/09 - PW Crack 3.md",
-    "PicoCTF/03 - General Skills/04 - convertme.py.md",
-    "PicoCTF/03 - General Skills/08 - PW Crack 2.md",
-    "PicoCTF/03 - General Skills/07 - PW Crack 1.md",
-    "PicoCTF/03 - General Skills/06 - fixme2.py.md",
-    "PicoCTF/03 - General Skills/05 - fixme1.py.md",
-    "PicoCTF/03 - General Skills/03 - Codebook.md",
-    "PicoCTF/03 - General Skills/02 - runme.py.md",
     "PicoCTF/03 - General Skills",
     "Untitled.canvas",
     "PicoCTF/02 - General Skills",
-    "PicoCTF/01 - General Skills",
-    "Untitled",
-    "PicoCTF"
+    "PicoCTF/01 - General Skills"
   ]
 }
