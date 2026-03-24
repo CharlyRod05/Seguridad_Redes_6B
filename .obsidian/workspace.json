@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF CONCURSO/Binary Digits.md",
+                "file": "PicoCTF/PicoCTF Forensic 4/Sleuthkit Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Digits"
+              "title": "Sleuthkit Intro"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "07e89bc3b1405009",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF CONCURSO/1- Binary Digits (1).md",
+    "PicoCTF/PicoCTF Forensic 4/Operation Oni.md",
+    "PicoCTF/PicoCTF Forensic 4/Operation Orchid.md",
+    "PicoCTF/PicoCTF Forensic 4/Sleuthkit Apprentice.md",
+    "PicoCTF/PicoCTF Forensic 4/Sleuthkit Intro.md",
+    "PicoCTF/PicoCTF Forensic 4/Disk, disk, sleuth!.md",
+    "PicoCTF/PicoCTF Forensic 4/Milkslap.md",
+    "Plantilla.md",
     "PicoCTF/PicoCTF CONCURSO/Binary Digits.md",
+    "PicoCTF/PicoCTF Forensic 4",
+    "PicoCTF/PicoCTF CONCURSO/1- Binary Digits (1).md",
     "PicoCTF/PicoCTF CONCURSO/fool-the-lockout (1).md",
     "PicoCTF/PicoCTF CONCURSO/fool-the-lockout.md",
     "PicoCTF/PicoCTF Forensic 2/WhitePages.md",
@@ -204,15 +212,8 @@
     "PicoCTF/PicoCTF CONCURSO/bytemacy0.md",
     "PicoCTF/PicoCTF CONCURSO/Piece by Piece (1).md",
     "PicoCTF/PicoCTF Forensic 2/like1000.md",
-    "Plantilla.md",
     "PicoCTF/PicoCTF Forensic 2",
-    "PicoCTF/PicoCTF CONCURSO/Printer Shares (1).md",
-    "PicoCTF/PicoCTF CONCURSO/bytemacy1 (1).md",
-    "PicoCTF/PicoCTF CONCURSO/bytemacy0 (1).md",
-    "PicoCTF/PicoCTF Forensic/05- What Lies Within.md",
     "PicoCTF/PicoCTF CONCURSO",
-    "PicoCTF/PicoCTF Forensic/04- extensions.md",
-    "PicoCTF/PicoCTF Forensic/03- shark on wire 1.md",
     "PicoCTF/PicoCTF Forensic",
     "PicoCTF/PicoCTF Web 4",
     "PicoCTF/PicoCTF Web 3",
@@ -220,7 +221,6 @@
     "PicoCTF/PicoCTF Web 2",
     "PicoCTF/03 - General Skills",
     "Untitled.canvas",
-    "PicoCTF/02 - General Skills",
-    "PicoCTF/01 - General Skills"
+    "PicoCTF/02 - General Skills"
   ]
 }
