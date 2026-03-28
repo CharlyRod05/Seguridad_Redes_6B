@@ -11,14 +11,10 @@
             "id": "07e89bc3b1405009",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/PicoCTF Forensic 4/Sleuthkit Intro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sleuthkit Intro"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.50909423828125
   },
   "right": {
     "id": "bca8d6e98cc2eb94",
@@ -183,44 +179,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "07e89bc3b1405009",
+  "active": "b5f81f6b901c78f2",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF Forensic 4/Operation Oni.md",
-    "PicoCTF/PicoCTF Forensic 4/Operation Orchid.md",
-    "PicoCTF/PicoCTF Forensic 4/Sleuthkit Apprentice.md",
-    "PicoCTF/PicoCTF Forensic 4/Sleuthkit Intro.md",
-    "PicoCTF/PicoCTF Forensic 4/Disk, disk, sleuth!.md",
-    "PicoCTF/PicoCTF Forensic 4/Milkslap.md",
-    "Plantilla.md",
-    "PicoCTF/PicoCTF CONCURSO/Binary Digits.md",
-    "PicoCTF/PicoCTF Forensic 4",
-    "PicoCTF/PicoCTF CONCURSO/1- Binary Digits (1).md",
-    "PicoCTF/PicoCTF CONCURSO/fool-the-lockout (1).md",
-    "PicoCTF/PicoCTF CONCURSO/fool-the-lockout.md",
-    "PicoCTF/PicoCTF Forensic 2/WhitePages.md",
-    "PicoCTF/PicoCTF Forensic 2/shark on wire 2.md",
-    "PicoCTF/PicoCTF Forensic 2/m00nwalk.md",
-    "PicoCTF/PicoCTF Forensic 2/c0rrupt.md",
-    "PicoCTF/PicoCTF CONCURSO/old-sessions.md",
-    "PicoCTF/PicoCTF CONCURSO/SUDO MAKE ME A SANDWICH.md",
-    "PicoCTF/PicoCTF CONCURSO/old-sessions (1).md",
-    "PicoCTF/PicoCTF CONCURSO/ping-cmd.md",
-    "PicoCTF/PicoCTF CONCURSO/Printer Shares.md",
-    "PicoCTF/PicoCTF CONCURSO/Piece by Piece.md",
-    "PicoCTF/PicoCTF CONCURSO/MultiCode.md",
-    "PicoCTF/PicoCTF CONCURSO/bytemacy1.md",
-    "PicoCTF/PicoCTF CONCURSO/bytemacy0.md",
-    "PicoCTF/PicoCTF CONCURSO/Piece by Piece (1).md",
-    "PicoCTF/PicoCTF Forensic 2/like1000.md",
-    "PicoCTF/PicoCTF Forensic 2",
-    "PicoCTF/PicoCTF CONCURSO",
-    "PicoCTF/PicoCTF Forensic",
-    "PicoCTF/PicoCTF Web 4",
-    "PicoCTF/PicoCTF Web 3",
-    "PicoCTF/01 - Tarea - GeneralSkills",
-    "PicoCTF/PicoCTF Web 2",
-    "PicoCTF/03 - General Skills",
-    "Untitled.canvas",
-    "PicoCTF/02 - General Skills"
+    "PicoCTF/Examen 1/2- Web/8- SSTI2.md",
+    "PicoCTF/Examen 1/2- Web/6- Java Code Analysis!_!.md",
+    "PicoCTF/Examen 1/2- Web/7- SQL Direct.md",
+    "PicoCTF/Examen 1/2- Web/5- findme.md",
+    "PicoCTF/Examen 1/2- Web/4- SSTI1.md",
+    "PicoCTF/Examen 1/2- Web/3- head-dump.md",
+    "PicoCTF/Examen 1/2- Web/2- Cookie Monster Secret Recipe.md",
+    "PicoCTF/Examen 1/2- Web/1- Bookmarklet.md",
+    "PicoCTF/Examen 1/2- Web",
+    "PicoCTF/Examen 1/1- General Skills/9- SansAlpha.md",
+    "PicoCTF/Examen 1/1- General Skills/8- Python Wrangling.md",
+    "PicoCTF/Examen 1/1- General Skills/7- flag_shop.md",
+    "PicoCTF/Examen 1/1- General Skills/6- dont-you-love-banners.md",
+    "PicoCTF/Examen 1/1- General Skills/5- Rust fixme 3.md",
+    "PicoCTF/Examen 1/1- General Skills/4- Rust fixme 2.md",
+    "PicoCTF/Examen 1/1- General Skills/3- Rust fixme 1.md",
+    "PicoCTF/Examen 1/1- General Skills/2- HashingJobApp.md",
+    "PicoCTF/Examen 1/1- General Skills/10- Specialer.md",
+    "PicoCTF/Examen 1/1- General Skills/1- FANTASY CTF.md",
+    "PicoCTF/Examen 1/1- General Skills",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web/7- SQL Direct.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web/4- SSTI1.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web/6- Java Code Analysis!_!.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web/5- findme.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web/3- head-dump.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web/1- Bookmarklet.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/1- General Skills/10- Specialer.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/1- General Skills/9- SansAlpha.md",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/1- General Skills",
+    "PicoCTF/Examen 1/PrimerExamen/PrimerExamen",
+    "PicoCTF/Examen 1/PrimerExamen",
+    "PicoCTF/Examen 1/PrimerExamen (1).zip",
+    "PicoCTF/Examen 1/PrimerExamen.zip",
+    "PicoCTF/Examen 1/Examen 1 -Web",
+    "PicoCTF/Examen 1/Examen 1 -General skills",
+    "Untitled.canvas"
   ]
 }
