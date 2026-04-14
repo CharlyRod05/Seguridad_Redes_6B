@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF Forensic Tarea4/09- St3g0.md",
+                "file": "PicoCTF/PicoCTF Crypto1/The Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09- St3g0"
+              "title": "The Numbers"
             }
           }
         ]
@@ -185,16 +185,25 @@
   },
   "active": "07e89bc3b1405009",
   "lastOpenFiles": [
+    "PicoCTF/PicoCTF Crypto1/caesar.md",
+    "PicoCTF/PicoCTF Crypto1/The Numbers.md",
+    "PicoCTF/PicoCTF Crypto1/la cifra de.md",
+    "PicoCTF/PicoCTF Crypto1/Easy1.md",
+    "Plantilla.md",
+    "PicoCTF/PicoCTF Crypto1/13.md",
+    "PicoCTF/PicoCTF Crypto1/interencdec.md",
+    "PicoCTF/PicoCTF Crypto1/waves over lambda.md",
+    "PicoCTF/PicoCTF Crypto1/Tapping.md",
+    "PicoCTF/PicoCTF Forensic Tarea4/09- St3g0.md",
+    "PicoCTF/PicoCTF Crypto1",
     "PicoCTF/PicoCTF Forensic Tarea4/08- Redaction gone wrong.md",
     "PicoCTF/PicoCTF Forensic Tarea4/07- hideme.md",
     "PicoCTF/PicoCTF Forensic Tarea4/06- Secret of the Polyglot.md",
-    "PicoCTF/PicoCTF Forensic Tarea4/09- St3g0.md",
     "PicoCTF/PicoCTF Forensic Tarea4/05- Scan Surprise.md",
     "PicoCTF/PicoCTF Forensic Tarea4/04- RED.md",
     "PicoCTF/PicoCTF Forensic Tarea4/03- Ph4nt0m 1ntrud3r.md",
     "PicoCTF/PicoCTF Forensic Tarea4/02- information.md",
     "PicoCTF/PicoCTF Forensic Tarea4/01- CanYouSee.md",
-    "Plantilla.md",
     "PicoCTF/Examen 1/1- General Skills/1- FANTASY CTF.md",
     "PicoCTF/PicoCTF Forensic Tarea4",
     "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web/8- SSTI2.md",
@@ -204,15 +213,7 @@
     "PicoCTF/Examen 1/2- Web/5- findme.md",
     "PicoCTF/Examen 1/2- Web/4- SSTI1.md",
     "PicoCTF/Examen 1/2- Web/3- head-dump.md",
-    "PicoCTF/Examen 1/2- Web/2- Cookie Monster Secret Recipe.md",
-    "PicoCTF/Examen 1/2- Web/1- Bookmarklet.md",
     "PicoCTF/Examen 1/2- Web",
-    "PicoCTF/Examen 1/1- General Skills/9- SansAlpha.md",
-    "PicoCTF/Examen 1/1- General Skills/8- Python Wrangling.md",
-    "PicoCTF/Examen 1/1- General Skills/7- flag_shop.md",
-    "PicoCTF/Examen 1/1- General Skills/6- dont-you-love-banners.md",
-    "PicoCTF/Examen 1/1- General Skills/5- Rust fixme 3.md",
-    "PicoCTF/Examen 1/1- General Skills/4- Rust fixme 2.md",
     "PicoCTF/Examen 1/1- General Skills",
     "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web",
     "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/1- General Skills",
@@ -220,7 +221,6 @@
     "PicoCTF/Examen 1/PrimerExamen",
     "PicoCTF/Examen 1/PrimerExamen (1).zip",
     "PicoCTF/Examen 1/PrimerExamen.zip",
-    "PicoCTF/Examen 1/Examen 1 -Web",
     "Untitled.canvas"
   ]
 }
