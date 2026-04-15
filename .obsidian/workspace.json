@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF Crypto1/The Numbers.md",
+                "file": "PicoCTF/PicoCTF Crypto 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Numbers"
+              "title": "rsa-pop-quiz"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "07e89bc3b1405009",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF Crypto1/caesar.md",
+    "Plantilla.md",
+    "PicoCTF/PicoCTF Crypto 2/rsa-pop-quiz.md",
     "PicoCTF/PicoCTF Crypto1/The Numbers.md",
+    "PicoCTF/PicoCTF Crypto 2",
+    "PicoCTF/PicoCTF Crypto1/caesar.md",
     "PicoCTF/PicoCTF Crypto1/la cifra de.md",
     "PicoCTF/PicoCTF Crypto1/Easy1.md",
-    "Plantilla.md",
     "PicoCTF/PicoCTF Crypto1/13.md",
     "PicoCTF/PicoCTF Crypto1/interencdec.md",
     "PicoCTF/PicoCTF Crypto1/waves over lambda.md",
@@ -212,7 +214,6 @@
     "PicoCTF/Examen 1/2- Web/7- SQL Direct.md",
     "PicoCTF/Examen 1/2- Web/5- findme.md",
     "PicoCTF/Examen 1/2- Web/4- SSTI1.md",
-    "PicoCTF/Examen 1/2- Web/3- head-dump.md",
     "PicoCTF/Examen 1/2- Web",
     "PicoCTF/Examen 1/1- General Skills",
     "PicoCTF/Examen 1/PrimerExamen/PrimerExamen/2- Web",
@@ -220,7 +221,6 @@
     "PicoCTF/Examen 1/PrimerExamen/PrimerExamen",
     "PicoCTF/Examen 1/PrimerExamen",
     "PicoCTF/Examen 1/PrimerExamen (1).zip",
-    "PicoCTF/Examen 1/PrimerExamen.zip",
     "Untitled.canvas"
   ]
 }
