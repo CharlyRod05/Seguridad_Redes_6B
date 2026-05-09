@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF Crypto Tarea/Vigenere.md",
+                "file": "PicoCTF/PicoCTF Reversing 2/timer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigenere"
+              "title": "timer"
+            }
+          },
+          {
+            "id": "a26adfb038950577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF Reversing 2/Picker I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Picker I"
+            }
+          },
+          {
+            "id": "880e0756773eba21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF Reversing 2/Picker II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Picker II"
+            }
+          },
+          {
+            "id": "410fa8eeae21a774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF Reversing 2/Picker III.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Picker III"
+            }
+          },
+          {
+            "id": "434e0715880d1865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF Reversing 2/Picker IIII.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Picker IIII"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,11 +240,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5ae513a679683be7",
+  "active": "434e0715880d1865",
   "lastOpenFiles": [
+    "PicoCTF/PicoCTF Reversing 2/Picker III.md",
+    "PicoCTF/PicoCTF Reversing 2/Picker II.md",
+    "PicoCTF/PicoCTF Reversing 2/Picker I.md",
+    "PicoCTF/PicoCTF Reversing 2/timer.md",
+    "PicoCTF/PicoCTF Reversing 2/Picker IIII.md",
+    "PicoCTF/PicoCTF Reversing 2/Safe Opener 2.md",
+    "Plantilla.md",
+    "PicoCTF/PicoCTF Crypto Tarea/Vigenere.md",
+    "PicoCTF/PicoCTF Reversing 2",
     "PicoCTF/PicoCTF Crypto Tarea/substitution2.md",
     "PicoCTF/PicoCTF Crypto Tarea/substitution1.md",
-    "PicoCTF/PicoCTF Crypto Tarea/Vigenere.md",
     "PicoCTF/PicoCTF Crypto Tarea/substitution0.md",
     "PicoCTF/PicoCTF Crypto 1/waves over lambda.md",
     "PicoCTF/PicoCTF Crypto 1/The Numbers.md",
@@ -201,18 +266,11 @@
     "PicoCTF/PicoCTF Crypto Tarea/morse-code.md",
     "PicoCTF/PicoCTF Crypto Tarea/hashcrack.md",
     "PicoCTF/PicoCTF Reversing 1/vault-door-5.md",
-    "Plantilla.md",
     "PicoCTF/PicoCTF Reversing 1/vault-door-4.md",
     "PicoCTF/PicoCTF Reversing 1/vault-door-3.md",
     "PicoCTF/PicoCTF Reversing 1/vault-door-1.md",
-    "PicoCTF/PicoCTF Reversing 1/vault-door-training.md",
-    "PicoCTF/PicoCTF Crypto Tarea/credstuff.md",
     "PicoCTF/PicoCTF Reversing 1",
-    "PicoCTF/PicoCTF Crypto Tarea/Crack the Power.md",
-    "PicoCTF/PicoCTF Crypto Tarea/EVEN RSA CAN BE BROKEN.md",
-    "PicoCTF/PicoCTF Crypto 3/b00tl3gRSA3.md",
     "PicoCTF/PicoCTF Crypto Tarea",
-    "PicoCTF/PicoCTF Crypto 3/b00tl3gRSA2.md",
     "PicoCTF/PicoCTF Crypto 4",
     "PicoCTF/PicoCTF Crypto 3/Sin nombre",
     "PicoCTF/PicoCTF Crypto 3",
@@ -220,7 +278,6 @@
     "PicoCTF/PicoCTF Crypto 1",
     "PicoCTF/PicoCTF Forensic Tarea4",
     "PicoCTF/Examen 1/2- Web",
-    "PicoCTF/Examen 1/1- General Skills",
     "Untitled.canvas"
   ]
 }
